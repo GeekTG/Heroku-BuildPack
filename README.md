@@ -1,1 +1,2 @@
-# Heroku BuildPack for [Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram)
+##### forked from [friendly-telegram/heroku-buildpack](https://gitlab.com/friendly-telegram/heroku-buildpack)
+# Heroku Build Pack for [Friendly-Telegram](https://github.com/GeekTG/Friendly-Telegram)
